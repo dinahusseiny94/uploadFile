@@ -1,0 +1,101 @@
+EmpID,Date_of_Joining,Quarter_of_Joining,Half_of_Joining,Year_of_Joining,Month_of_Joining,Month_Name_of_Joining,Short_Month,Day_of_Joining,DOW_of_Joining,Short_DOW,Age_in_Company_in_Years,Salary,Last_Hike,NID,PhoneNo ,PlaceName,County,City,State,Zip,Region,UserName,Password,batch_id,Data_extraction_date
+677509,11/24/03,Q4,H2,2003,11,November,Nov,24,Monday,Mon,13.68,168251,21%,29703190101231,1201443035,Denver,Denver,Denver,CO,80224,West,lhwalker,DCa}.T}X:v?NP,12345,11/24/03
+940761,7/27/08,Q3,H2,2008,7,July,Jul,27,Sunday,Sun,9.01,51063,27%,29703190201231,1200000000,Stonewall,De Soto,Stonewall,LA,71078,South,bsrobinson,TCo\j#Zg;SQ~o,12345,11/24/04
+428945,8/3/16,Q3,H2,2016,8,August,Aug,3,Wednesday,Wed,0.98,50155,16%,30105190103537,1202675985,Michigantown,Clinton,Michigantown,IN,46057,Midwest,jwrobinson,GO4$J8MiEh[A,12345,11/24/05
+408351,4/16/99,Q2,H1,1999,4,April,Apr,16,Friday,Fri,18.3,180294,1%,28205040100373,1550069489,Hydetown,Crawford,Hydetown,PA,16328,Northeast,dievans,0gGRtp1HfL<r5,12345,11/24/06
+193819,7/25/13,Q3,H2,2013,7,July,Jul,25,Thursday,Thu,4.01,117642,13%,29011110100591,1221533362,Fremont,Waupaca,Fremont,WI,54940,Midwest,brrussell,Rd<Y8cp!@R;*%F,12345,11/24/07
+499687,7/22/05,Q3,H2,2005,7,July,Jul,22,Friday,Fri,12.02,72305,5%,29003250100688,1223199495,Macksburg,Madison,Macksburg,IA,50155,Midwest,pfbailey,K7&5aY/*,12345,11/24/08
+539712,9/14/16,Q3,H2,2016,9,September,Sep,14,Wednesday,Wed,0.87,98189,0%,26510280100681,1226687665,Atlanta,Fulton,Atlanta,GA,30334,South,ntbaker,xJdKlAcYQhT_BE#,12345,11/24/09
+380086,1/28/83,Q1,H1,1983,1,January,Jan,28,Friday,Fri,34.52,60918,20%,27410300105268,1223640903,Blanchester,Clinton,Blanchester,OH,45107,Midwest,cvmurphy,Uc+VG%vuZU<k,12345,11/24/10
+477616,4/27/94,Q2,H1,1994,4,April,Apr,27,Wednesday,Wed,23.27,121587,28%,26107010100892,1222642664,Delmita,Starr,Delmita,TX,78536,South,fbyoung,K}^USc0l7[A,12345,11/24/11
+162402,2/17/14,Q1,H1,2014,2,February,Feb,17,Monday,Mon,3.44,43010,4%,29207280100032,1003573452,Eureka Springs,Carroll,Eureka Springs,AR,72632,South,dtpeterson,3o8>v&tYxjyEAo,12345,11/24/12
+231469,4/14/09,Q2,H1,2009,4,April,Apr,14,Tuesday,Tue,8.29,118457,8%,26904100100074,1226482539,Sabetha,Nemaha,Sabetha,KS,66534,Midwest,rlflores,7tP\LrSr}\qTqj,12345,11/24/13
+153989,1/5/17,Q1,H1,2017,1,January,Jan,5,Thursday,Thu,0.56,82965,23%,28101200101118,1008768283,Las Vegas,Clark,Las Vegas,NV,89170,West,jcalexander,9L*-O1U.9mSUSh,12345,11/24/14
+386158,11/24/15,Q4,H2,2015,11,November,Nov,24,Tuesday,Tue,1.68,166892,1%,28111070100128,1221371070,New Matamoras,Washington,New Matamoras,OH,45767,Midwest,mqking,FE5i<e-Y}[4f78,12345,11/24/15
+301576,7/19/17,Q3,H2,2017,7,July,Jul,19,Wednesday,Wed,0.02,92758,14%,29710012122809,1280441744,Maida,Cavalier,Maida,ND,58255,Midwest,wgwatson,wM4J{]&j\-eGc,12345,11/24/16
+441771,11/26/90,Q4,H2,1990,11,November,Nov,26,Monday,Mon,26.69,92220,12%,29007120100703,1201011051,Quecreek,Somerset,Quecreek,PA,15555,Northeast,coscott,Vbb+~2N|_yR,12345,11/24/17
+528509,8/22/94,Q3,H2,1994,8,August,Aug,22,Monday,Mon,22.95,152654,8%,30906090102412,1220098709,Beulaville,Duplin,Beulaville,NC,28518,South,pgdiaz,3Kg55luU,12345,11/24/18
+912990,9/2/02,Q3,H2,2002,9,September,Sep,2,Monday,Mon,14.91,184896,1%,28904290100633,1281099799,New Douglas,Madison,New Douglas,IL,62074,Midwest,jtstewart,K?vi9BBznj,12345,11/24/19
+214352,1/19/15,Q1,H1,2015,1,January,Jan,19,Monday,Mon,2.52,197537,1%,29401010109217,1226509473,Toeterville,Mitchell,Toeterville,IA,50481,Midwest,tglee,JS#hN&Xij\%QEr,12345,11/24/20
+890290,2/23/05,Q1,H1,2005,2,February,Feb,23,Wednesday,Wed,12.43,141518,3%,28712120100772,1226766587,Primm Springs,Hickman,Primm Springs,TN,38476,South,jsscott,r.:Q7c^Tpb,12345,11/24/21
+622406,6/7/98,Q2,H1,1998,6,June,Jun,7,Sunday,Sun,19.15,73862,3%,28811300100523,1223886782,Dutchtown,Cape Girardeau,Dutchtown,MO,63745,Midwest,tqlewis,y;OJd_Oa#4g|!G,12345,11/24/22
+979607,4/25/16,Q2,H1,2016,4,April,Apr,25,Monday,Mon,1.26,93967,30%,28011130101175,1224067822,Shreveport,Caddo,Shreveport,LA,71162,South,cjedwards,wi>v-a9gt,12345,11/24/23
+969580,2/7/16,Q1,H1,2016,2,February,Feb,7,Sunday,Sun,1.47,52237,9%,28903010101501,1211960515,Heathsville,Northumberland,Heathsville,VA,22473,South,mlturner,I>tL>d[|lZdi_|^,12345,11/24/24
+426038,12/30/09,Q4,H2,2009,12,December,Dec,30,Wednesday,Wed,7.58,111673,12%,29103092102443,1279009759,Middleport,Meigs,Middleport,OH,45760,Midwest,jcstewart,q@mq.U~D#1MPgZ,12345,11/24/25
+388642,8/30/13,Q3,H2,2013,8,August,Aug,30,Friday,Fri,3.91,160623,9%,28009282201766,1221624101,Woodbury,Cannon,Woodbury,TN,37190,South,rrrogers,t>#P@D9s<:9\V,12345,11/24/26
+560455,7/3/01,Q3,H2,2001,7,July,Jul,3,Tuesday,Tue,16.08,42005,14%,30011030103161,1207572727,Saint Cloud,Osceola,Saint Cloud,FL,34771,South,cvhayes,NY!Y2sw.[_v-Q9{,67890,1/28/83
+477253,11/24/13,Q4,H2,2013,11,November,Nov,24,Sunday,Sun,3.68,103160,29%,28412050100067,1277756186,Stockholm,Grant,Stockholm,SD,57264,Midwest,alrussell,c8Nk&Y^~Vz!2,67890,1/28/84
+263480,3/6/14,Q1,H1,2014,3,March,Mar,6,Thursday,Thu,3.4,153790,13%,26203070100041,1284173111,Manning,Dunn,Manning,ND,58642,Midwest,dkcooper,d8p{Pwx2fsW0-Z,67890,1/28/85
+683826,1/29/09,Q1,H1,2009,1,January,Jan,29,Thursday,Thu,8.5,129625,12%,26202010105056,1223829594,Mount Vernon,Skagit,Mount Vernon,WA,98273,West,rlroberts,41:C_0ik|Jb0iTO,67890,1/28/86
+474599,10/1/98,Q4,H2,1998,10,October,Oct,1,Thursday,Thu,18.84,48944,21%,28812150100909,1275736165,Lawrenceburg,Lawrence,Lawrenceburg,TN,38464,South,mwwalker,cw?%U}s{?,67890,1/28/87
+335732,8/20/87,Q3,H2,1987,8,August,Aug,20,Thursday,Thu,29.96,60508,29%,30412260100034,1286120149,Mesa,Maricopa,Mesa,AZ,85208,West,bmbutler,u+CtpZ~gyR*>,67890,1/28/88
+329752,4/13/15,Q2,H1,2015,4,April,Apr,13,Monday,Mon,2.29,67251,22%,28707260100736,1117506667,Panacea,Wakulla,Panacea,FL,32346,South,lxbrown,CG-M5~z:,67890,1/28/89
+893212,6/1/03,Q2,H1,2003,6,June,Jun,1,Sunday,Sun,14.17,112715,30%,27910090100147,1067747088,Kline,Kline,Kline,SC,29814,South,abhoward,tNo::TEG,67890,1/28/90
+621833,9/30/15,Q3,H2,2015,9,September,Sep,30,Wednesday,Wed,1.83,169245,22%,29501220102589,1272746590,Bonanza,Klamath,Bonanza,OR,97623,West,gxedwards,V^sVy*MO{,67890,1/28/91
+456747,8/23/12,Q3,H2,2012,8,August,Aug,23,Thursday,Thu,4.93,170895,19%,27406030101535,1001500300,Liberty,Union,Liberty,IN,47353,Midwest,rzgriffin,qm&h<b.NsKaZ,67890,1/28/92
+278556,8/18/16,Q3,H2,2016,8,August,Aug,18,Thursday,Thu,0.94,122226,14%,27101072101815,1001061116,Ohatchee,Calhoun,Ohatchee,AL,36271,South,rymitchell,RWeXJPOi:KpX<Rn,67890,1/28/93
+333476,12/22/91,Q4,H2,1991,12,December,Dec,22,Sunday,Sun,25.62,109394,16%,28508040103049,1221411643,Nashville,Davidson,Nashville,TN,37219,South,mpwilson,Pwl&W:|<_,67890,1/28/94
+218791,7/3/97,Q3,H2,1997,7,July,Jul,3,Thursday,Thu,20.08,54402,0%,28802110100064,1272576952,Eckerty,Crawford,Eckerty,IN,47116,Midwest,anprice,uKxgV4uO&k@,67890,1/28/95
+134841,7/17/13,Q3,H2,2013,7,July,Jul,17,Wednesday,Wed,4.03,129836,8%,26910270101709,1223778413,Lima,Livingston,Lima,NY,14485,Northeast,drbrown,u?%QOo2ykK,67890,1/28/96
+726264,6/9/07,Q2,H1,2007,6,June,Jun,9,Saturday,Sat,10.14,162159,7%,26112060100048,1287387813,Wright,Jefferson,Wright,AR,72182,South,cncollins,XinULSmjAFL/,67890,1/28/97
+766610,5/14/10,Q2,H1,2010,5,May,May,14,Friday,Fri,7.21,119321,13%,29503270101292,1205911661,Ellsworth,Pierce,Ellsworth,WI,54011,Midwest,jejenkins,C5/iW3Ry#o{~elV,67890,1/28/98
+923947,5/20/04,Q2,H1,2004,5,May,May,20,Thursday,Thu,13.2,155442,4%,27810090102242,1227708877,Conroy,Iowa,Conroy,IA,52220,Midwest,mgbryant,A[iR?Z1{,67890,1/28/99
+227922,4/19/07,Q2,H1,2007,4,April,Apr,19,Thursday,Thu,10.28,114257,22%,27002270102951,1271391350,Lake Charles,Calcasieu,Lake Charles,LA,70605,South,amhughes,B2N>J{_k7]F,67890,1/28/100
+265813,7/29/07,Q3,H2,2007,7,July,Jul,29,Sunday,Sun,10.01,186280,23%,29703198801231,1234567891,Kalvesta,Kalvesta,Kalvesta,KS,67856,Midwest,jecampbell,rh\N>WRr4hl~l,67890,1/28/101
+247137,6/7/06,Q2,H1,2006,6,June,Jun,7,Wednesday,Wed,11.15,154810,12%,29402130101518,1205218973,Knoxville,Knox,Knoxville,TN,37901,South,aerivera,rSuD~3HS*{S,67890,1/28/102
+407061,1/19/05,Q1,H1,2005,1,January,Jan,19,Wednesday,Wed,12.53,85420,24%,28709271404322,1205208674,Rochester,Strafford,Rochester,NH,3867,Northeast,eqjackson,EAHcnWsf6xMRwr],67890,1/28/103
+226714,8/25/12,Q3,H2,2012,8,August,Aug,25,Saturday,Sat,4.93,94986,11%,28112012111558,1229890395,Bowling Green,Clay,Bowling Green,IN,47833,Midwest,nldavis,bv-KfTutT?0*pm,67890,1/28/104
+702813,1/24/16,Q1,H1,2016,1,January,Jan,24,Sunday,Sun,1.51,172098,8%,25803290100054,1223549965,Uniontown,Crawford,Uniontown,AR,72955,South,edmartinez,qe?JNGBY{[\7;dD,67890,1/28/105
+524896,12/27/11,Q4,H2,2011,12,December,Dec,27,Tuesday,Tue,5.59,133332,30%,28901191402041,1226600926,Topeka,Shawnee,Topeka,KS,66606,Midwest,jyhernandez,kiB:v!j&?D!&NYY,67890,1/28/106
+363065,10/16/15,Q4,H2,2015,10,October,Oct,16,Friday,Fri,1.78,61924,4%,25803150101336,1004733337,New York City,New York,New York City,NY,10087,Northeast,nljones,J}HJq/zVF-Aq2,67890,1/28/107
+879753,6/9/17,Q2,H1,2017,6,June,Jun,9,Friday,Fri,0.13,149262,9%,27410100100105,1221050086,Banner,Sheridan,Banner,WY,82832,West,pxwright,3a*&[Y^pV\0!rU,24680,3/7/10
+958326,2/22/17,Q1,H1,2017,2,February,Feb,22,Wednesday,Wed,0.43,97904,20%,26805240100459,1220288722,East Saint Louis,St. Clair,East Saint Louis,IL,62201,Midwest,ltmiller,2WgF#:ew**x#,24680,3/7/11
+447813,11/19/13,Q4,H2,2013,11,November,Nov,19,Tuesday,Tue,3.69,130014,12%,28904210100051,1220226766,Hancock,Pottawattamie,Hancock,IA,51536,Midwest,aqcoleman,g2]GlvlL5,24680,3/7/12
+525955,1/3/92,Q1,H1,1992,1,January,Jan,3,Friday,Fri,25.58,149575,9%,27101310100733,1221194591,Eatontown,Monmouth,Eatontown,NJ,7724,Northeast,jcgonzales,yDl}pfaWs{Hro6,24680,3/7/13
+818384,11/29/09,Q4,H2,2009,11,November,Nov,29,Sunday,Sun,7.67,173226,27%,29808110100465,1277232874,Portage,Kalamazoo,Portage,MI,49024,Midwest,pxwashington,97%d^2rk41!E>*Q,24680,3/7/14
+971640,12/31/08,Q4,H2,2008,12,December,Dec,31,Wednesday,Wed,8.58,165272,9%,29206060100744,1227555427,Oneida,Scott,Oneida,TN,37841,South,caross,h&jmac@+QD?B,24680,3/7/15
+253573,3/7/14,Q1,H1,2014,3,March,Mar,7,Friday,Fri,3.39,190139,21%,28503040100234,1220272696,Bartley,McDowell,Bartley,WV,24813,South,selopez,GsP~S?FYY,24680,3/7/16
+904898,2/15/17,Q1,H1,2017,2,February,Feb,15,Wednesday,Wed,0.45,182521,30%,28201100101409,1005077967,Arlee,Lake,Arlee,MT,59821,West,aqcooper,i_^#>]tFpt,24680,3/7/17
+515103,7/28/03,Q3,H2,2003,7,July,Jul,28,Monday,Mon,14.01,114426,9%,26201162500116,1006043830,Cookeville,Putnam,Cookeville,TN,38505,South,aaperez,y;n9A#}b,24680,3/7/18
+491943,2/6/99,Q1,H1,1999,2,February,Feb,6,Saturday,Sat,18.48,101553,25%,28907092601812,1278890969,Saxe,Charlotte,Saxe,VA,23967,South,nphoward,OC\&tG&?c,24680,3/7/19
+750173,5/1/17,Q2,H1,2017,5,May,May,1,Monday,Mon,0.24,181646,30%,27611140103587,1222316964,Mc Calla,Jefferson,Mc Calla,AL,35111,South,arroberts,h>.g!B:VcNN,24680,3/7/20
+687017,8/20/10,Q3,H2,2010,8,August,Aug,20,Friday,Fri,6.94,46945,22%,28207160101783,1227250240,Trego,Lincoln,Trego,MT,59934,West,fpwatson,rjV1$at!wq53a$,24680,3/7/21
+241882,1/10/91,Q1,H1,1991,1,January,Jan,10,Thursday,Thu,26.56,84318,19%,27301022604971,1285222208,Blair,Washington,Blair,NE,68009,Midwest,dgwood,iO8B@*yA*mG6b9o,24680,3/7/22
+758872,6/21/17,Q2,H1,2017,6,June,Jun,21,Wednesday,Wed,0.1,102384,11%,27201010103522,1001115607,Riverside,Platte,Riverside,MO,64150,Midwest,hyjenkins,zPnRU5Bo,24680,3/7/23
+940922,2/5/17,Q1,H1,2017,2,February,Feb,5,Sunday,Sun,0.47,167631,30%,27909170100085,1024631622,Maxwell,Lincoln,Maxwell,NE,69151,Midwest,mxbutler,hY3BqUR>6F,24680,3/7/24
+917937,5/8/16,Q2,H1,2016,5,May,May,8,Sunday,Sun,1.22,163560,0%,30511050102585,1208777728,Randallstown,Baltimore,Randallstown,MD,21133,South,thhall,Lgdb8q<0L@-/,24680,3/7/25
+917395,11/8/97,Q4,H2,1997,11,November,Nov,8,Saturday,Sat,19.73,190765,0%,28012010109331,1226600605,Willow Beach,Mohave,Willow Beach,AZ,86445,West,cdnelson,QKae{1EP1A[SeX,24680,3/7/26
+183071,4/18/10,Q2,H1,2010,4,April,Apr,18,Sunday,Sun,7.28,54179,25%,26112230100099,1018903778,Granger,St. Joseph,Granger,IN,46530,Midwest,apgarcia,eI!^kXR]Q^V+,24680,3/7/27
+316110,4/2/06,Q2,H1,2006,4,April,Apr,2,Sunday,Sun,11.33,178847,1%,30708290105991,1060064199,Alcoa,Blount,Alcoa,TN,37701,South,jisanchez,Yg#Z+:CDwDV<*xZ,24680,3/7/28
+293459,3/27/15,Q1,H1,2015,3,March,Mar,27,Friday,Fri,2.34,90108,24%,28301012311961,1226600415,Baton Rouge,East Baton Rouge,Baton Rouge,LA,70833,South,sjphillips,ht}X55$P&g1,24680,3/7/29
+732017,2/18/09,Q1,H1,2009,2,February,Feb,18,Wednesday,Wed,8.44,90531,2%,29305232101835,1228985625,Browning,Glacier,Browning,MT,59417,West,cjramirez,qP-#AhuNuz*Wb],24680,3/7/30
+915638,9/21/99,Q3,H2,1999,9,September,Sep,21,Tuesday,Tue,17.86,76636,19%,25006281401109,1222811368,Hudson,McLean,Hudson,IL,61748,Midwest,jwanderson,a3Hlk+.V/TjD,24680,3/7/31
+478003,3/4/04,Q1,H1,2004,3,March,Mar,4,Thursday,Thu,13.41,186200,30%,24803262600765,1005256015,Kansas City,Jackson,Kansas City,MO,64133,Midwest,cxwhite,mofyGR>.?Dwb4!,24680,3/7/32
+951225,8/26/16,Q3,H2,2016,8,August,Aug,26,Friday,Fri,0.92,43867,9%,29902270101421,1271155517,Haswell,Kiowa,Haswell,CO,81045,West,mnbrooks,0*2k8uW&:{i{,24680,3/7/33
+883936,9/10/09,Q3,H2,2009,9,September,Sep,10,Thursday,Thu,7.88,181793,20%,27803240103807,1282937191,Eckert,Delta,Eckert,CO,81418,West,diflores,9||FLq|0tU|9>v,24680,3/7/34
+528673,6/26/95,Q2,H1,1995,6,June,Jun,26,Monday,Mon,22.1,145235,15%,25507231801466,1224963942,Blue River,Floyd,Blue River,KY,41607,South,pvwatson,7q{iHhbgWZ7%,13579,5/15/17
+765850,5/15/17,Q2,H1,2017,5,May,May,15,Monday,Mon,0.2,113256,18%,26307110102531,1221479070,Albion,Erie,Albion,PA,16401,Northeast,lrmoore,0jj}jl_r/VmJ;,13579,5/15/18
+262382,7/30/07,Q3,H2,2007,7,July,Jul,30,Monday,Mon,10,64143,3%,23904120100053,1001427386,Bays,Breathitt,Bays,KY,41310,South,comiller,Nr-t/.^cWBO,13579,5/15/19
+870820,3/3/17,Q1,H1,2017,3,March,Mar,3,Friday,Fri,0.4,116629,25%,30507220102957,1275381881,Nardin,Kay,Nardin,OK,74646,South,mgwashington,ju$7I]eH8{-,13579,5/15/20
+806955,3/21/00,Q1,H1,2000,3,March,Mar,21,Tuesday,Tue,17.36,73734,22%,24703202401548,1223340067,Mary Esther,Okaloosa,Mary Esther,FL,32569,South,wghernandez,BRB3DFywgZZ4,13579,5/15/21
+325319,11/5/14,Q4,H2,2014,11,November,Nov,5,Wednesday,Wed,2.73,48736,2%,28409160105721,1225700301,Wheaton,DuPage,Wheaton,IL,60189,Midwest,cfprice,K*$u@MAoH,13579,5/15/22
+623253,7/2/17,Q3,H2,2017,7,July,Jul,2,Sunday,Sun,0.07,174774,7%,28407290100052,1202222496,Margie,Koochiching,Margie,MN,56658,Midwest,rqstewart,C\RjCUPJd[Ld],13579,5/15/23
+225925,9/8/14,Q3,H2,2014,9,September,Sep,8,Monday,Mon,2.89,73526,27%,27701130105114,1111120348,Glidden,Colorado,Glidden,TX,78943,South,pdcooper,hW%ZbJ\fZ-,13579,5/15/24
+761821,1/31/15,Q1,H1,2015,1,January,Jan,31,Saturday,Sat,2.49,176675,15%,29609160100641,1287774240,Saranac Lake,Franklin,Saranac Lake,NY,12983,Northeast,egwashington,B\Wb^6W-,13579,5/15/25
+400173,12/31/13,Q4,H2,2013,12,December,Dec,31,Tuesday,Tue,3.58,179017,1%,27201012405755,1005113553,Philadelphia,Philadelphia,Philadelphia,PA,19132,Northeast,dkedwards,VWEIm3YKm65|D,13579,5/15/26
+802554,8/31/14,Q3,H2,2014,8,August,Aug,31,Sunday,Sun,2.91,106628,24%,28001202702106,1222251252,Jarreau,Pointe Coupee,Jarreau,LA,70749,South,rvalexander,3N3]VFZx?MaC{,13579,5/15/27
+476433,12/7/99,Q4,H2,1999,12,December,Dec,7,Tuesday,Tue,17.65,149878,3%,30407200106862,1206383868,Wichita,Sedgwick,Wichita,KS,67214,Midwest,lnmitchell,Ty/b@+;f,13579,5/15/28
+533952,7/4/13,Q3,H2,2013,7,July,Jul,4,Thursday,Thu,4.07,51878,15%,27503310100611,1223928949,Meno,Major,Meno,OK,73760,South,kradams,OfK?#J|7&W\1T,13579,5/15/29
+623929,12/12/07,Q4,H2,2007,12,December,Dec,12,Wednesday,Wed,9.63,120631,13%,26408080104739,1224174535,Oriskany,Oneida,Oriskany,NY,13424,Northeast,jrhoward,0v+|SfA0Xv+Pf%,13579,5/15/30
+844177,5/17/13,Q2,H1,2013,5,May,May,17,Friday,Fri,4.2,180107,22%,29712250103726,1200882419,Richmond Dale,Ross,Richmond Dale,OH,45673,Midwest,mtallen,oC1OHlW%Sk@%6,13579,5/15/31
+212893,12/18/12,Q4,H2,2012,12,December,Dec,18,Tuesday,Tue,4.61,114481,5%,27811240100339,1226012076,Miami,Miami-Dade,Miami,FL,33166,South,jyhenderson,g-oCs-L/za,13579,5/15/32
+185032,12/8/14,Q4,H2,2014,12,December,Dec,8,Monday,Mon,2.64,122950,26%,29702090100932,1203318871,Racine,Racine,Racine,WI,53490,Midwest,edperez,g]SJn<W_/#,13579,5/15/33
+867084,3/4/02,Q1,H1,2002,3,March,Mar,4,Monday,Mon,15.41,52767,28%,29502270101512,1288380884,Atqasuk,North Slope,Atqasuk,AK,99791,West,desmith,C[WxHsB9,13579,5/15/34
+969964,8/23/16,Q3,H2,2016,8,August,Aug,23,Tuesday,Tue,0.93,147641,25%,26411180104184,1285937401,Whiteman Air Force Base,Johnson,Whiteman Air Force Base,MO,65305,Midwest,jsparker,8wUbWmuib,13579,5/15/35
+158666,4/10/83,Q2,H1,1983,4,April,Apr,10,Sunday,Sun,34.32,160043,9%,29501310100054,1289539181,Independence,Inyo,Independence,CA,93526,West,rastewart,7ONuh3Zi^z#32r,13579,5/15/36
+489424,1/5/16,Q1,H1,2016,1,January,Jan,5,Tuesday,Tue,1.56,181774,7%,28609240100711,1227033043,Mapleton,Lane,Mapleton,OR,97453,West,pfwhite,8<Mc.5]eu.*C8.,13579,5/15/37
+639892,7/9/16,Q3,H2,2016,7,July,Jul,9,Saturday,Sat,1.05,129774,15%,25906030100062,1222476501,Biloxi,Harrison,Biloxi,MS,39532,South,jkhill,a_!SKb6h3?w*Mad,13579,5/15/38
+704709,8/23/11,Q3,H2,2011,8,August,Aug,23,Tuesday,Tue,5.93,156194,0%,27705090103771,1223215988,Carol Stream,Carol Stream,Carol Stream,IL,60351,Midwest,hznelson,z/-hEz3&^q5,13579,5/15/39
+461593,1/23/89,Q1,H1,1989,1,January,Jan,23,Monday,Mon,28.53,95673,12%,29605040101711,1210000597,Detroit,Wayne,Detroit,MI,48278,Midwest,noward,AUe6s0@:@]A3Ze,13579,5/15/40
+392491,8/3/10,Q3,H2,2010,8,August,Aug,3,Tuesday,Tue,6.99,51015,11%,28101010105974,1281803214,Mc Grath,Yukon-Koyukuk (CA),Mc Grath,AK,99627,West,trmurphy,V]PGw>4h9,13579,5/15/41
+495141,4/25/15,Q2,H1,2015,4,April,Apr,25,Saturday,Sat,2.26,93650,7%,,,Alma,Gratiot,Alma,MI,48801,Midwest,tbyoung,d6!&xu12A1H^i![,13579,5/15/42
