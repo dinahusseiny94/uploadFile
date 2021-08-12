@@ -20,9 +20,9 @@ def upload(request):
         name = fs.save(uploaded_file.name, uploaded_file)
 
         file_path = '/media/' + name
-        print(file_path)
+        context['url'] = file_path
 
-        target_locations = pd.read_csv(file_path)
-        context['url'] = target_locations
+        # target_locations = pd.read_csv(file_path)
+        # context['url'] = target_locations
 
     return render(request, 'upload.html', context)
